@@ -1,0 +1,37 @@
+.section{
+  width: 100vw;
+  height: 100vh;
+  background: url("../images/home/home.jpg");
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  
+}
+
+
+.container{
+  padding: 5rem 5rem;
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+}
+.right,.left{
+  
+  display: flex;
+  justify-content: center;
+}
+
+.text{
+  color: white;
+  text-align: left;
+  
+}
+.heading{
+  font-size: 1.25rem;
+
+}
+
+.description{
+  font-size: 0.9375rem;
+  width: 500px;
+}

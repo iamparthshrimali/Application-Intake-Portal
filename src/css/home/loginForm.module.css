@@ -1,0 +1,15 @@
+.loginForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    padding: 5rem 2rem;
+   
+}
+.heading{
+   position: absolute;
+   top:2rem;
+   margin-bottom: 2rem;   
+}
+
+
